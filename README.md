@@ -8,12 +8,15 @@ This analysis has yielded useful tables and csv files for assessing the companie
 
 ### Figures
 ![impending_retirements_by_title](https://github.com/deklund76/Pewlett-Hackard-Analysis/blob/main/Resources/impending_retirements_by_title.png)
+
 _figure 1_
 
 ![mentorship_eligibility](https://github.com/deklund76/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibility.png)
+
 _figure 2_
 
 ![retiring_employees_titles_held](https://github.com/deklund76/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_employees_titles_held.png)
+
 _figure 3_
 
 ### Major Findings
@@ -26,13 +29,13 @@ _figure 3_
 ## Summary
 In conclusion, we can make two additional queries to the PH-Employee database to provide insight on the impending "silver tsunami":
 
-code(SELECT SUM(retiring_titles.total)
-FROM retiring_titles;)
+SELECT SUM(retiring_titles.total)
+FROM retiring_titles;
 
 The above query gives us a whopping total of 90,398 employees who will be retiring as part of the silver tsunami, more troubling is that when we run the next query:
 
-code(SELECT COUNT(*)
-FROM mentorship_eligibility;)
+SELECT COUNT(*)
+FROM mentorship_eligibility;
 
 There are only 1,550 retirement-ready employees qualified to mentor new hires in thier positions or roughly 1 mentor per 60 new employees, at that point they're more teachers than mentors.
 
