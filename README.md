@@ -23,8 +23,8 @@ _figure 3_
 
 * Starting on the brightside, management will be basically untouched by the impending wave of retirements.
 * The opposite is true for Senior positions however.
-* As figure 2 shows, there are only 1,550 qualified mentors for the mentorship program, relatively few.
-* Figure 3 shows some of the different titles some employees have had over the years. The upshot of the previous point is that as has been the case in the past, promotions of engineers and general staff will be needed to help fill the impending void among senior engineers and staff.
+* As _figure 2_ shows, there are only 1,550 qualified mentors for the mentorship program, relatively few.
+* _Figure 3_ shows some of the different titles some employees have had over the years. The upshot of the previous point is that as has been the case in the past, promotions of engineers and general staff will be needed to help fill the impending void among senior engineers and staff.
 
 ## Summary
 In conclusion, we can make two additional queries to the PH-Employee database to provide insight on the impending "silver tsunami":
