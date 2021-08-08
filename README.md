@@ -29,17 +29,17 @@ _figure 3_
 ## Summary
 In conclusion, we can make two additional queries to the PH-Employee database to provide insight on the impending "silver tsunami":
 
-'''
+```
 SELECT SUM(retiring_titles.total)
 FROM retiring_titles;
-'''
+```
 
 The above query gives us a whopping total of 90,398 employees who will be retiring as part of the silver tsunami, more troubling is that when we run the next query:
 
-'''
+```
 SELECT COUNT(*)
 FROM mentorship_eligibility;
-'''
+```
 
 There are only 1,550 retirement-ready employees qualified to mentor new hires in thier positions or roughly 1 mentor per 60 new employees, at that point they're more teachers than mentors.
 
