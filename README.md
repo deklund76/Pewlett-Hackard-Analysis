@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview
-The following analysis inspects employee data for the company Pewlett-Hackard to gain insights to help prepare for the "silver tsunami", a wave of imminent retirements as baby boomers age out of the work force. By finding out who will be retiring in the new feature, what department they work in, what job title they hold, and how many of them there are, Pewlett-Hackard seeks to future-proof their company by preparing to hire more people for those positions in demand as well as determine how many employees may be kept on in part-time mentorship roles to ease the transition to a younger more evenly distributed workforce.
+The following analysis inspects the employee SQL database for the company Pewlett-Hackard to gain insights to help prepare for the "silver tsunami", a wave of imminent retirements as baby boomers age out of the work force. By finding out who will be retiring in the new feature, what department they work in, what job title they hold, and how many of them there are, Pewlett-Hackard seeks to future-proof their company by preparing to hire more people for those positions in demand as well as determine how many employees may be kept on in part-time mentorship roles to ease the transition to a younger more evenly distributed workforce.
 
 ## Results
 This analysis has yielded useful tables and csv files for assessing the companies future. 
